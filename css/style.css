@@ -1,0 +1,73 @@
+body{
+    background-image: url(./img/map-with-route-and-gps-pointers-vector-17359201.jpg)
+}
+nav{
+    text-align: center;
+}
+
+footer{
+    text-align: right;
+}
+
+#man1{
+    float: right;
+}
+
+h1{
+    font-size: 1.5cm;
+    text-align: center;
+    font-style: italic;
+}
+
+h5{
+    text-align: left;
+}
+
+#info{
+    width: 800px;
+    margin-left: 260px;
+}
+
+#contenedor{
+    font-size: 10px;
+    font-weight: bolder;
+}
+#home{
+    text-align: center;
+}
+
+@media screen and (max-width: 1085px) {
+    nav {
+        float: none;
+        width: 100%;
+    }
+    #info{
+        text-align: left;
+        width: 100%;
+        margin-left: auto;
+        float: none;
+    }
+    #man1{
+        float: none;
+        text-align: left;
+    }
+    #contacto{
+        text-align: left;
+        float: none;
+    }
+}
+
+#vuelve{
+    text-decoration: none;
+    text-align: center;
+}
+
+#contenedor{
+    text-align: right;
+}
+
+.caja{
+    width:500px;
+    height: 100px;
+    white-space: pre-wrap;
+}
