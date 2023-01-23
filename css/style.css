@@ -71,3 +71,12 @@ h5{
     height: 100px;
     white-space: pre-wrap;
 }
+
+#sn{
+    text-align: left;
+    margin-right: 590px
+}
+
+footer{
+    background: green;
+}
